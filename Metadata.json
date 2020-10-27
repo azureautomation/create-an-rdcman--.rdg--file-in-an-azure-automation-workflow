@@ -1,0 +1,20 @@
+{
+    "Author": "knom27",
+    "ContentSize": 2785,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/create-an-rdcman-(.rdg)-file-in-an-azure-automation-workflow/master/Automation_Get-RDCManFile.ps1",
+    "DownloadCount": 1533,
+    "Id": "Create-an-RDCMan-rdg-file-056d2ad1",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 345,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2014-8-25T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Create an Remote Desktop Connection Manager (.rdg) file in an Azure Automation Workflow - containing all the RDP endpoints of your VMs.",
+    "Title": "Create an RDCMan (.rdg) file in an Azure Automation Workflow",
+    "UpdatedDate": "2014-8-25T00:00:00",
+    "Url": "https://github.com/azureautomation/create-an-rdcman-(.rdg)-file-in-an-azure-automation-workflow",
+    "UserTags": "Remote Desktop Connection Manager, Windows Azure Virtual Machines, Azure Automation"
+}
